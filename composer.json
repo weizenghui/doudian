@@ -1,18 +1,19 @@
 {
-    "name": "xbhub/laravel-shop-douyin",
+    "name": "jyh/doudian",
     "type": "library",
     "description": "抖音小店erp接口",
     "keywords": [
-        "Xbhub",
-        "ShopDouyin"
+        "Jyh",
+        "Doudian",
+        "Jinritemai"
     ],
-    "homepage": "https://gitee.com/xbhub/shop-douyin",
+    "homepage": "https://github.com/weizenghui/doudian",
     "license": "MIT",
     "authors": [
         {
-            "name": "jory",
-            "email": "jorycn@163.com",
-            "homepage": "http://www.xbhub.com",
+            "name": "wuwei",
+            "email": "wuwei@jiyunhai.com",
+            "homepage": "http://www.jiyunhai.com",
             "role": "Developer"
         }
     ],
@@ -29,12 +30,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Xbhub\\ShopDouyin\\": "src"
+            "Jyh\\doudian\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Xbhub\\ShopDouyin\\": "tests"
+            "Jyh\\doudian\\": "tests"
         }
     },
     "scripts": {
